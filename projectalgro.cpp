@@ -11,4 +11,5 @@ int main(){
     cout << "Hallo WOrld" << endl;
     cout << "Hai" << endl;
     cout << "Tolong" << endl;
+    cout << "Hai " << endl;
 }
