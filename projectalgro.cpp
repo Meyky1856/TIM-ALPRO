@@ -7,6 +7,7 @@ void garis(){
 }
 int main(){
     cout << "Selamt Datang Di Rental Cahaya Abadi" << endl;
+    cout << "==================================" << endl;
     cout << "Hallo WOrld" << endl;
     cout << "Hai" << endl;
     cout << "Tolong" << endl;
