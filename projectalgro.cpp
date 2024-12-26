@@ -13,4 +13,5 @@ int main(){
     cout << "Tolong" << endl;
     cout << "Hai " << endl;
     cout << "ebeb" << endl;
+    cout << "tl";
 }
